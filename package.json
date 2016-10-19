@@ -1,0 +1,32 @@
+{
+  "name": "mei-ben-luka-online",
+  "version": "9000.0.0",
+  "description": "BIRTHDAY",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ga-chicago/mei-ben-luka-online.git"
+  },
+  "keywords": [
+    "russell",
+    "birthday",
+    "node",
+    "chicago",
+    "dogs",
+    "awesome",
+    "win",
+    "nice",
+    "guy",
+    "wdi"
+  ],
+  "author": "code-for-coffee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ga-chicago/mei-ben-luka-online/issues"
+  },
+  "homepage": "https://github.com/ga-chicago/mei-ben-luka-online#readme"
+}
