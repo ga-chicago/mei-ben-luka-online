@@ -28,5 +28,10 @@
   "bugs": {
     "url": "https://github.com/ga-chicago/mei-ben-luka-online/issues"
   },
-  "homepage": "https://github.com/ga-chicago/mei-ben-luka-online#readme"
+  "homepage": "https://github.com/ga-chicago/mei-ben-luka-online#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "handlebars": "^4.0.5"
+  }
 }
